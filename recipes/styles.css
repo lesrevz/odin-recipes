@@ -1,9 +1,10 @@
+/*Genral styling elemnts*/
 * {
     background: linear-gradient(to right, #3c3b3f, #605c3c) ;
     margin: auto;;
     
 }
-
+/*Styling elemts for Home-link; this need to be updated to Home button*/
 .linkback{
     border: 3px solid white;
     float: left;
@@ -73,7 +74,7 @@ h1 {
     position: relative;
     
 }
-
+/*This code dosen't seem to effects it class, need to check again*/
 .prep2 {
     font-style: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -108,3 +109,5 @@ h1 {
 ol li {
     padding: 7px 0px;
 }
+
+/*Need to add a "back to top" button to make it easy to go back to top*/
